@@ -51,6 +51,7 @@ pip install ultralytics
 ```bash
 python app.py
 ```
+!https://www.loom.com/share/6a0009887f0f45b9bd65df0dd4d3411c (this is the video)
 
 ### Access the App
 Navigate to `http://localhost:5000` in your browser.

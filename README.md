@@ -104,7 +104,15 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [OpenCV](https://opencv.org/)
 - Flask for the web application
 
+
 ---
+
+## ☑️ Important links 
+- [Document](https://docs.google.com/document/d/1LgENRh3GIq-7daamF_m3ZAyClXLIG-bd0gC9TwXRBh8/edit?usp=sharing)
+- [Github_page](https://sk16er.github.io/Trismfeinym/)
+- [Easy.py]( https://github.com/Sk16er/rtobjdtbskinf/blob/main/easy.py)
+- [loom_video](https://www.loom.com/share/6a0009887f0f45b9bd65df0dd4d3411c)
+- [youtube_video](https://www.youtube.com/channel/UCIjP-B9I6PZwssWuTGNCDGQ)
 
 ## 📧 Contact
 For any inquiries or issues, please open an issue on the GitHub repo or contact me at [shushankpawar664@gmail.com].

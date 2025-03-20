@@ -86,8 +86,9 @@ pytest
 - Verify all dependencies are installed using `pip freeze`.
 - If the model isn’t loading, confirm the path in `config.py`.
 - to install the commands here is the commands.
-  ``` python
+  ``` bash
   pip install Flask opencv-python-headless torch ultralytics
+  ```
 
 
 ---

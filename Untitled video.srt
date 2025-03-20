@@ -1,0 +1,523 @@
+1
+00:00:01,333 --> 00:00:04,100
+RTOBJDDSKINRSK
+
+2
+00:00:04,700 --> 00:00:07,167
+performance real time object
+
+3
+00:00:07,200 --> 00:00:09,667
+detection by SK in flask
+
+4
+00:00:11,933 --> 00:00:13,100
+object
+
+5
+00:00:18,967 --> 00:00:19,834
+detector.
+
+6
+00:00:25,000 --> 00:00:25,600
+... open
+
+7
+00:00:36,300 --> 00:00:37,201
+folder
+
+8
+00:00:48,034 --> 00:00:49,601
+Is he spelling on to a model?
+
+9
+00:00:52,567 --> 00:00:55,134
+He has a can't take
+
+10
+00:00:55,567 --> 00:00:57,801
+a repository clone to Sakti. He
+
+11
+00:00:58,934 --> 00:01:00,367
+enough for a very
+
+12
+00:01:02,201 --> 00:01:04,268
+easy&#44; easy.
+
+13
+00:01:14,268 --> 00:01:16,134
+Activate.
+
+14
+00:01:50,868 --> 00:01:54,535
+Virtually
+
+15
+00:01:54,535 --> 00:01:56,235
+... Virtually ...
+
+16
+00:02:13,802 --> 00:02:16,202
+./benv/scripts/scrtls
+
+17
+00:02:18,002 --> 00:02:19,802
+Activate over here ... ...
+
+18
+00:04:30,870 --> 00:04:33,604
+you know main easy.payu and import
+
+19
+00:04:33,837 --> 00:04:36,670
+the name from the dash
+
+20
+00:04:36,670 --> 00:04:39,170
+main function define cry this main name
+
+21
+00:04:39,170 --> 00:04:41,670
+model as yo local or en
+
+22
+00:04:42,070 --> 00:04:44,604
+en for nano dot pt extension is download
+
+23
+00:04:44,604 --> 00:04:47,104
+is Chrome model going up import for Fill
+
+24
+00:04:47,137 --> 00:04:49,604
+cap function is memory cv2 see video
+
+25
+00:04:49,804 --> 00:04:52,471
+camera video capture video capture is a
+
+26
+00:04:52,471 --> 00:04:55,404
+function say video capture 00
+
+27
+00:04:55,804 --> 00:04:58,871
+camera
+
+28
+00:04:59,604 --> 00:05:00,204
+01&#44; 2&#44;
+
+29
+00:05:02,637 --> 00:05:05,271
+3&#44; if not cap&#44; open a camera
+
+30
+00:05:05,471 --> 00:05:07,904
+error. The white&#44; white&#44;
+
+31
+00:05:08,938 --> 00:05:11,804
+true. Red frame
+
+32
+00:05:11,804 --> 00:05:14,538
+is good. Frame
+
+33
+00:05:15,004 --> 00:05:17,404
+function. Red
+
+34
+00:05:18,004 --> 00:05:19,738
+function. If not&#44; read
+
+35
+00:05:20,938 --> 00:05:23,271
+to fail break
+
+36
+00:05:26,771 --> 00:05:27,138
+program.
+
+37
+00:05:31,938 --> 00:05:34,205
+Result is going to model frame to result
+
+38
+00:05:34,805 --> 00:05:37,238
+model capacity frame model
+
+39
+00:05:38,338 --> 00:05:40,105
+capacity. Result functions defined
+
+40
+00:05:40,738 --> 00:05:41,471
+annotated frame.
+
+41
+00:05:50,338 --> 00:05:50,405
+... ...
+
+42
+00:05:55,205 --> 00:05:58,038
+CV to ensure YOLO V8 object
+
+43
+00:05:58,038 --> 00:05:58,805
+detection...
+
+44
+00:06:10,272 --> 00:06:13,138
+uh annotated frame uh there you go
+
+45
+00:06:13,938 --> 00:06:15,472
+uh it seems you you know
+
+46
+00:06:17,338 --> 00:06:18,938
+CV to ensure the split annotated frame
+
+47
+00:06:18,938 --> 00:06:21,138
+window title annotated from window frame
+
+48
+00:06:21,138 --> 00:06:22,805
+and what's the title
+
+49
+00:06:24,272 --> 00:06:26,639
+exit condition of exit cable exit key
+
+50
+00:06:26,639 --> 00:06:28,605
+condition the CV2
+
+51
+00:06:29,539 --> 00:06:31,539
+CV2 wait one one millisecond
+
+52
+00:06:38,205 --> 00:06:38,572
+initial
+
+53
+00:06:41,605 --> 00:06:43,605
+computer different
+
+54
+00:06:44,172 --> 00:06:45,672
+operating systems
+
+55
+00:06:47,739 --> 00:06:49,672
+Sandbox bar&#44; it is bad of text here
+
+56
+00:06:49,672 --> 00:06:51,072
+though&#44; is me error ID&#44; this
+
+57
+00:06:51,072 --> 00:06:53,106
+layer here.
+
+58
+00:06:55,206 --> 00:06:56,872
+Cap.release&#44; destroy builder&#44;
+
+59
+00:06:56,872 --> 00:06:58,039
+just see how much you can get to
+
+60
+00:06:58,139 --> 00:07:00,606
+cap.release. Webcam go
+
+61
+00:07:00,739 --> 00:07:02,739
+applications&#44; sorry windows.
+
+62
+00:07:03,739 --> 00:07:05,739
+Last wall&#44; if name if underscore name
+
+63
+00:07:05,739 --> 00:07:07,139
+underscore is equals to is equals to main
+
+64
+00:07:07,639 --> 00:07:10,072
+underscore main underscore main file&#44;
+
+65
+00:07:10,873 --> 00:07:13,273
+main function. ... ...
+
+66
+00:07:49,940 --> 00:07:53,540
+yeah
+
+67
+00:07:56,740 --> 00:07:58,640
+100% CPU ......................
+
+68
+00:08:26,207 --> 00:08:28,474
+Mira ye wala ye yellow model I scanner be
+
+69
+00:08:28,474 --> 00:08:31,007
+a man I say value file when I clean it is
+
+70
+00:08:31,007 --> 00:08:33,407
+came there be model dehira a dot pt se
+
+71
+00:08:33,407 --> 00:08:35,740
+bada wala and the key so mb super model
+
+72
+00:08:36,207 --> 00:08:37,974
+able downloaded scanner the way the
+
+73
+00:08:37,974 --> 00:08:39,107
+balance and download is like yeah that
+
+74
+00:08:39,107 --> 00:08:40,674
+game is cover cartoon was good fire we
+
+75
+00:08:40,674 --> 00:08:42,240
+will not sign now is them neighbor
+
+76
+00:08:42,240 --> 00:08:43,940
+children when I see you
+
+77
+00:08:45,474 --> 00:08:47,840
+many others it's good get up at all with
+
+78
+00:08:47,840 --> 00:08:49,274
+me that he has any
+
+79
+00:08:50,741 --> 00:08:51,749
+what's your word valid find it all ?
+
+80
+00:08:57,207 --> 00:09:00,174
+this repo is made
+
+81
+00:09:00,274 --> 00:09:01,941
+for explaining
+
+82
+00:09:03,474 --> 00:09:05,941
+in... Zulo
+
+83
+00:09:07,607 --> 00:09:08,141
+model ... ...
+
+84
+00:09:11,141 --> 00:09:13,441
+README file ...
+
+85
+00:09:35,274 --> 00:09:35,308
+.........................
+
+86
+00:09:50,458 --> 00:09:52,591
+I will make a platform on
+
+87
+00:09:59,925 --> 00:10:02,658
+github using YOLO
+
+88
+00:10:02,658 --> 00:10:05,258
+model to make
+
+89
+00:10:06,392 --> 00:10:09,125
+real time
+
+90
+00:10:12,192 --> 00:10:13,492
+detection make a
+
+91
+00:10:15,325 --> 00:10:17,658
+see looking
+
+92
+00:10:19,792 --> 00:10:20,258
+readme
+
+93
+00:10:22,392 --> 00:10:24,792
+file for that
+
+94
+00:10:26,358 --> 00:10:28,259
+which even
+
+95
+00:10:28,992 --> 00:10:29,659
+contain
+
+96
+00:10:33,359 --> 00:10:33,725
+everything
+
+97
+00:10:36,192 --> 00:10:37,725
+like the
+
+98
+00:10:38,592 --> 00:10:40,259
+yeah tip
+
+99
+00:10:41,759 --> 00:10:44,259
+commands to download etc.
+
+100
+00:10:46,859 --> 00:10:49,592
+make that in markdown
+
+101
+00:10:52,526 --> 00:10:54,592
+here here is
+
+102
+00:10:55,592 --> 00:10:57,526
+the link of repo
+
+103
+00:10:58,459 --> 00:11:00,259
+that and gave
+
+104
+00:11:02,726 --> 00:11:03,259
+me a come here
+
+105
+00:11:49,660 --> 00:11:49,693
+.............................................
+
+106
+00:11:52,226 --> 00:11:52,860
+for this.
+
+107
+00:12:06,418 --> 00:12:08,318
+This may be new file in this particular
+
+108
+00:12:12,018 --> 00:12:13,085
+area.
+
+109
+00:12:18,352 --> 00:12:19,752
+Here we have the new detection here&#44;
+
+110
+00:12:19,952 --> 00:12:22,618
+this program and we can features
+
+111
+00:12:22,618 --> 00:12:23,718
+installation
+
+112
+00:12:24,793 --> 00:12:25,927
+Requirement.txt.
+
+113
+00:13:11,827 --> 00:13:14,261
+python python is very
+
+114
+00:13:15,161 --> 00:13:17,061
+nice living python
+
+115
+00:13:25,261 --> 00:13:27,161
+only have parabiskit umm
+
+116
+00:15:19,462 --> 00:15:20,796
+... ... ... ...
+
+117
+00:15:42,879 --> 00:15:45,596
+... But yeah&#44;
+
+118
+00:15:47,596 --> 00:15:47,763
+to
+
+119
+00:15:57,130 --> 00:15:59,896
+explore... Save...
+
+120
+00:16:02,063 --> 00:16:02,996
+Installation...
+
+121
+00:16:15,063 --> 00:16:15,097
+................
+
+122
+00:16:31,263 --> 00:16:31,597
+Pip
+
+123
+00:16:37,222 --> 00:16:39,889
+command to install
+
+124
+00:16:40,622 --> 00:16:41,289
+then is
+
+125
+00:17:07,531 --> 00:17:07,597
+... ...
+
+126
+00:17:31,998 --> 00:17:34,506
+you know License .
+
+127
+00:17:35,531 --> 00:17:36,139
+License .
+
+128
+00:18:05,531 --> 00:18:07,398
+Hello yeah I'm ready to review
+
+129
+00:18:15,498 --> 00:18:17,365
+and submit.
+
+130
+00:18:19,532 --> 00:18:20,598
+License
+
+131
+00:18:20,598 --> 00:18:20,632
+.................................................
